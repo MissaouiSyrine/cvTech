@@ -1,0 +1,12 @@
+.row-header{
+  margin: 0px auto;
+  padding: 0px auto;
+}
+
+.jumbotron{
+  padding:70px 30px 70px 30px;
+  margin: 0px auto;
+  color: white;
+  background-image: url("C:\Users\syrin\Documents\GL4Semestre1\Framework de developement\TP\CVTheque\src\assets\images\networking.jpg");
+  background-size: auto;
+}
